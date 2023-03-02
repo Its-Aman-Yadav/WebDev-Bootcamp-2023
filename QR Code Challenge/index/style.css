@@ -1,0 +1,13 @@
+h1{
+    color: black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font: bold;
+}
+
+body{
+    background-color: aqua;
+}
